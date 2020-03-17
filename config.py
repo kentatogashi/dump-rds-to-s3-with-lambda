@@ -1,0 +1,5 @@
+rds_host = ""
+rds_username = ""
+rds_password = ""
+rds_name = "sakila"
+bucket_name = ""
