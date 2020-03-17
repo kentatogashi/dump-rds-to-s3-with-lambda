@@ -12,4 +12,5 @@ $ zip -r upload.zip *
 * Assign VPC to Lambda.
 * Add s3 policy to IAM role for lambda
 * Add rds policy to IAM role for lambda
+* Add sns policy to IAM role for lambda
 * Create VPC endpoint for s3
