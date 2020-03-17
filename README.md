@@ -7,3 +7,9 @@ $ pip3 install pymysql -t .
 $ pip3 install boto3 -t .
 $ zip -r upload.zip *
 ```
+## Other setting
+
+* Assign VPC to Lambda.
+* Add s3 policy to IAM role for lambda
+* Add rds policy to IAM role for lambda
+* Create VPC endpoint for s3
